@@ -6,6 +6,7 @@ Example result for boxes(1):
 |     |
 |     |
 +-----+
+
 """
 
 
