@@ -11,7 +11,7 @@ import pprint
 
 
 def is_interlock(w, word_set):
-    """Is word w form by interlocking two words from word_set."""
+    """Is word w formed by interlocking two words from word_set."""
     w1 = w[::2]
     w2 = w[1::2]
     return w1 in word_set and w2 in word_set
